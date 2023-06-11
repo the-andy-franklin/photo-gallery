@@ -1,3 +1,4 @@
+<!-- src/components/ExploreContainer.vue -->
 <template>
   <div id="container">
     <strong>{{ name }}</strong>

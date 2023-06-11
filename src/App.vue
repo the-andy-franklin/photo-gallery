@@ -1,3 +1,4 @@
+<!-- src/App.vue -->
 <template>
   <ion-app>
     <ion-router-outlet />
